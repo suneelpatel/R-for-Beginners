@@ -8,9 +8,8 @@ Learn R in simple and easy steps starting from basic to advanced concepts with e
 3. Data Operators in R
 4. Data Types in R
 5. Conditional Statement
-6. Flow Control in R
-7. Loops in R
-8. Functions in R
+6. Loops in R
+7. Functions in R
 
 
 
@@ -183,10 +182,8 @@ The Else if statement helps you in extending branches to the flow created by the
 #### Else Statement: 
 The else statement is used when all the other expressions are checked and found invalid. This will be the last statement that gets executed as part of the If – Else if branch. 
 
-# 6. Flow Control in R
 
-
-# 7. Loops in R
+# 6. Loops in R
 
 A loop statement allows us to execute a statement or group of statements multiple times. There are mainly 3 types of loops in R:
 
@@ -199,7 +196,7 @@ It helps to repeats a statement or group of statements while a given condition i
 #### for Loop: 
 It is used to repeats a statement or group of for a fixed number of times. Unlike repeat and while loop, the for loop is used in situations where we are aware of the number of times the code needs to executed beforehand. It is similar to the while loop where the condition is first checked and then only does the code written inside get executed. 
 
-# 8. Functions in R
+# 7. Functions in R
 
 A function is a block of organized, reusable code that is used to perform a single, related action. There are mainly two types of functions in R:
 

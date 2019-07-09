@@ -44,9 +44,44 @@ Data science is shaping the way companies run their businesses. Without a doubt,
 
 They are plenty of tools available in the market to perform data analysis. Learning a new language requires some time investment. The picture below depicts the learning curve compared to the business capability a language offers. The negative relationship implies that there is no free lunch. If you want to give the best insight from the data, then you need to spend some time learning the appropriate tool, which is R.
 
+#### Who uses R?
+
+* The Consumer Financial Protection Bureau uses R for data analysis
+* Statisticians at John Deere use R for time series modeling and geospatial analysis in a reliable and reproducible way.
+* Bank of America uses R for reporting.
+* R is part of technology stack behind Foursquare’s famed recommendation engine.
+* ANZ, the fourth largest bank in Australia, using R for credit risk analysis.
+* Google uses R to predict Economic Activity.
+* Mozilla, the foundation responsible for the Firefox web browser, uses R to visualize Web activity.
+
+
 # 2. Variables in R
 
+#### Variables in R Programming
+
+A variable is a name given to a memory location, which is used to store values in a computer program. Variables in R programming can be used to store numbers (real and complex), words, matrices, and even tables. R is a dynamically programmed language which means that unlike other programming languages, we do not have to declare the data type of a variable before we can use it in our program.
+
+For a variable to be valid, it should follow these rules
+
+* It should contain letters, numbers, and only dot or underscore characters.
+* It should not start with a number (eg:- 2iota)
+* It should not start with a dot followed by a number (eg:- .2iota)
+* It should not start with an underscore (eg:- _iota)
+* It should not be a reserved keyword.
+
 # 3. Data Types in R
+
+Data types are used to store information. In R, we do not need to declare a variable as some data type. The variables are assigned with R-Objects and the data type of the R-object becomes the data type of the variable. There are mainly six data types present in R:
+
+##### 1. Vectors
+##### 2. Lists
+##### 3. Arrays
+##### 4. Matrices
+##### 5. DataFrames
+##### 6. Factors
+
+
+
 
 # 4. Data Operators in R
 

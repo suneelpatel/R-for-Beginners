@@ -34,7 +34,7 @@ if (2==1) {
   
 #Example2: 
 
-Num1 = 5
+Num1 = 10
 Num2 = 20
 
 if (Num1<Num2) { 
@@ -47,13 +47,13 @@ if (Num1<Num2) {
 
 #Example3:
 
-x<-5
-if(x>5) {
+x<-2
+if(x>2) {
   print("x is greater than 5")
-} else if(x==5) {
-  print("x is equal to 5")
+} else if(x==2) {
+  print("x is equal to 2")
 } else {
-  print("x is not greater than 5")
+  print("x is not greater than 2")
 }
 
 

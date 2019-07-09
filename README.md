@@ -6,8 +6,8 @@ Learn R in simple and easy steps starting from basic to advanced concepts with e
 1. INTRODUCTION TO R PROGRAMMING
 2. Variables in R
 3. Data Types in R
-4. Data Operators in R
-5. Flow Control in R
+4. Flow Control in R
+5. Data Operators in R
 6. Conditional Statement
 7. Loops in R
 8. Functions in R
@@ -171,10 +171,20 @@ These operators are used to assign values to variables in R. The assignment can 
 These operators compare the two entities and are typically used with boolean (logical) values such as ‘and’, ‘or’ and ‘not’. 
 
 
-# 5. Flow Control in R
+# 5. Conditional Statement
+####] R Programming: Conditional Statements
 
+#### If Statement: 
+The If statement helps you in evaluating a single expression as part of the flow. To perform this evaluation, you just need to write the If keyword followed by the expression to be evaluated. 
 
-# 6. Conditional Statement
+#### Else If Statement: 
+The Else if statement helps you in extending branches to the flow created by the If statement and give you the opportunity to evaluate multiple conditions by creating new branches of flow.
+
+#### Else Statement: 
+The else statement is used when all the other expressions are checked and found invalid. This will be the last statement that gets executed as part of the If – Else if branch. 
+
+# 6. Flow Control in R
+
 
 # 7. Loops in R
 

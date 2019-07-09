@@ -188,4 +188,14 @@ The else statement is used when all the other expressions are checked and found 
 
 # 7. Loops in R
 
+A loop statement allows us to execute a statement or group of statements multiple times. There are mainly 3 types of loops in R:
+
+#### repeat Loop: 
+It repeats a statement or group of statements while a given condition is TRUE. Repeat loop is the best example of an exit controlled loop where the code is first executed and then the condition is checked to determine if the control should be inside the loop or exit from it.
+
+#### while Loop: 
+It helps to repeats a statement or group of statements while a given condition is TRUE. While loop, when compared to the repeat loop is slightly different, it is an example of an entry controlled loop where the condition is first checked and only if the condition is found to be true does the control be delivered inside the loop to execute the code.
+
+#### for Loop: 
+It is used to repeats a statement or group of for a fixed number of times. Unlike repeat and while loop, the for loop is used in situations where we are aware of the number of times the code needs to executed beforehand. It is similar to the while loop where the condition is first checked and then only does the code written inside get executed. 
 # 8. Functions in R

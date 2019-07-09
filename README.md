@@ -8,7 +8,7 @@ Learn R in simple and easy steps starting from basic to advanced concepts with e
 3. Data Types in R
 4. Data Operators in R
 5. Flow Control in R
-7. Conditional Statement
+6. Conditional Statement
 7. Loops in R
 8. Functions in R
 
@@ -31,3 +31,30 @@ Data analysis with R is done in a series of steps; programming, transforming, di
 * Discover: Investigate the data, refine your hypothesis and analyze them
 * Model: R provides a wide array of tools to capture the right model for your data
 * Communicate: Integrate codes, graphs, and outputs to a report with R Markdown or build Shiny apps to share with the world
+
+
+#### What is R used for?
+
+* Statistical inference
+* Data analysis
+* Machine learning algorithm
+
+#### Why use R?
+Data science is shaping the way companies run their businesses. Without a doubt, staying away from Artificial Intelligence and Machine will lead the company to fail. The big question is which tool/language should you use?
+
+They are plenty of tools available in the market to perform data analysis. Learning a new language requires some time investment. The picture below depicts the learning curve compared to the business capability a language offers. The negative relationship implies that there is no free lunch. If you want to give the best insight from the data, then you need to spend some time learning the appropriate tool, which is R.
+
+# 2. Variables in R
+
+# 3. Data Types in R
+
+# 4. Data Operators in R
+
+# 5. Flow Control in R
+
+
+# 6. Conditional Statement
+
+# 7. Loops in R
+
+# 8. Functions in R

@@ -198,4 +198,13 @@ It helps to repeats a statement or group of statements while a given condition i
 
 #### for Loop: 
 It is used to repeats a statement or group of for a fixed number of times. Unlike repeat and while loop, the for loop is used in situations where we are aware of the number of times the code needs to executed beforehand. It is similar to the while loop where the condition is first checked and then only does the code written inside get executed. 
+
 # 8. Functions in R
+
+A function is a block of organized, reusable code that is used to perform a single, related action. There are mainly two types of functions in R:
+
+#### User-defined Function
+A user-defined function is a function provided by the user of a program or environment in a context where the usual assumption is that functions are built into the program or environment.
+
+#### In-built Function
+There is a function called the repeat function which means to repeat a value a number of time. Repeat series is repeat 1:6 twice as you can see in the image. All this data can be created whenever required and elements of the series can also be repeated.

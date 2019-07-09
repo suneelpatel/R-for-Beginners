@@ -5,10 +5,10 @@ Learn R in simple and easy steps starting from basic to advanced concepts with e
 
 1. INTRODUCTION TO R PROGRAMMING
 2. Variables in R
-3. Data Types in R
-4. Flow Control in R
-5. Data Operators in R
-6. Conditional Statement
+3. Data Operators in R
+4. Data Types in R
+5. Conditional Statement
+6. Flow Control in R
 7. Loops in R
 8. Functions in R
 

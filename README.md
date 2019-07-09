@@ -156,6 +156,20 @@ Factors are the data objects which are used to categorize the data and store it 
 
 
 # 4. Data Operators in R
+There are mainly 4 data operators in R, they are as seen below:
+
+#### Arithmetic Operators: 
+These operators help us perform the basic arithmetic operations like addition, subtraction, multiplication, etc.
+
+#### Relational Operators: 
+These operators help us perform the relational operations like checking if a variable is greater than, lesser than or equal to another variable. The output of a relational operation is always a logical value.
+
+#### Assignment Operators: 
+These operators are used to assign values to variables in R. The assignment can be performed by using either the assignment operator (<-) or equals operator (=). The value of the variable can be assigned in two ways, left assignment and right assignment.
+
+#### Logical Operators: 
+These operators compare the two entities and are typically used with boolean (logical) values such as ‘and’, ‘or’ and ‘not’. 
+
 
 # 5. Flow Control in R
 
